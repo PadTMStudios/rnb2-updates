@@ -3,10 +3,3 @@
 data/$MUSH_AchievementSystem_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/%24MUSH_AchievementSystem_P1.js
 
 <End of Version>
-
-<Version: 1.02>
-
-data/$MUSH_AchievementSystem_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/%24MUSH_AchievementSystem_P1.js
-
-<End of Version>
-
