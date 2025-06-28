@@ -335,13 +335,19 @@ MUSH_Achievements.prototype.createAchievementsList = function() {
 
 		["Start the Adventure!", 7, "Start the Adventure!",         "Just play and talk with Kite",              "3/0/15",   "0/1/0",  false, false, false] ,
 		["Tutorial Clear", 7, "Tutorial Clear",         "Defeat Tony Da' Dummy",                            "3/0/10", "0/20/0",  false, false, false] ,
+		["Shop Master", 7, "Shop Master",         "Buy something on Jose's Shop",                            "3/0/5", "0/26/0",  false, false, false] ,
+		["Electronic City Clear", 7, "Electronic City Clear",         "Go to the Overworld",                            "3/0/5", "0/23/0",  false, false, false] ,
 		["Beginner Collector", 7, "Beginner Collector",         "Buy some Omi on Eva's Shopy",                            "3/0/5", "0/22/0",  false, false, false] ,
+		["Celesta City Clear", 7, "Celesta City Clear",         "Go to Laeten City",                            "3/0/15", "0/25/0",  false, false, false] ,
+		["Laeten City Clear", 7, "Laeten City Clear",         "Go to Chiptune City",                            "3/0/15", "0/27/0",  false, false, false] ,
 		["Let's Rockn'Roll", 47, "Let's Rockn'Roll",         "Access Concert Mode in Skuik City",                            "3/0/500", "0/18/0",  false, false, false] ,
+		["Like 2015!", 47, "Like 2015",         "Find the door's code",                            "3/0/500", "0/24/0",  false, false, false] ,
+		["Chiptune City Clear", 7, "Chiptune City Clear",         "Go to Industrial City",                            "3/0/15", "0/28/0",  false, false, false] ,
+		["Expert Collector", 7, "Expert Collector",         "First Gacha Spin",                            "3/0/5", "0/29/0",  false, false, false] ,
 		["CD Quiz!", 2, "CD Quiz!",         "Defeat Melissa's Quiz", "0/83/1",    "0/19/0", false, false, false],
 		["Antivirus", 7, "Antivirus",         "Defeat CODE RNB and finish the game",                            "3/0/1000", "0/14/0",  false, false, true] ,
 		["Her true looks", 7, "Her true looks",         "Defeat Amateras",                            "3/0/500", "0/21/0",  false, false, true] ,
 		["That's an end?", 2, "thats an end",         "...A true end?", "3/0/0",    "0/13/0", false, false, false]
-		  
 	];
 
 	// END OF ACHIVEMENTS LIST (DO NOT MODIFY FROM HERE)
