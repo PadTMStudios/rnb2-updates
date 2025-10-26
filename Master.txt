@@ -15,7 +15,7 @@ data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/ref
 data/Map021.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Map021.json
 data/Map022.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Map022.json
 data/Map030.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Map030.json
-img/SumRndmDde/auto-update https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Background.png
+img/SumRndmDde/auto-update/Background.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Background.png
 img/characters/femalechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/female_char.png
 img/characters/femalechar_damage.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/femalechar_damage.png
 img/characters/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/malechar.png
