@@ -8,8 +8,6 @@ js/plugins/$MUSH_AchievementSystem_P1.js https://raw.githubusercontent.com/PadTM
 
 data/System.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/System.json
 data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Actors.json
-data/MapInfos.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/MapInfos.json
-data/Skills.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Skills.json
 data/Translations.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Translations.json
 data/Map004.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Map004.json
 data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Map006.json
@@ -23,9 +21,7 @@ img/characters/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-
 img/characters/malechar_damage.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/malechar_damage.png
 img/characters/kite.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Kite.png
 img/characters/Omi_1-8.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Omi_1-8.png
-img/characters/Omi_1-8_alt.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Omi_1-8_alt.png
 img/characters/Omi_26-34.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Omi_26-34.png
-img/pictures https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/Beginner%20Collector.png
 img/sv_actors/female_char_better.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/female_char_better.png
 
 <End of Version>
