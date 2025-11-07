@@ -28,3 +28,10 @@ img/characters/Omi_26-34.png https://raw.githubusercontent.com/PadTMStudios/rnb2
 img/sv_actors/female_char_better.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/female_char_better.png
 
 <End of Version>
+
+<Version: 1.03>
+
+img/sv_actors/female_char.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/female_char.png
+img/sv_actors/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/malechar.png
+
+<End of Version>
