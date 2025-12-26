@@ -48,13 +48,11 @@ data/Items.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs
 data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map006.json
 data/Map010.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map010.json
 data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map012.json
-img/battlebacks1/Electronic City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic City.png
-img/battlebacks1/Electronic City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic City_night.png
+img/battlebacks1/Electronic_City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/bg2/Electronic_City.png
+img/battlebacks1/Electronic_City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/bg2/Electronic_City_night.png
 img/battlebacks1/Circus.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Circus.png
-img/battlebacks2/Electronic City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic City.png
-img/battlebacks2/Electronic City_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic City_bg.png
-img/battlebacks2/Electronic City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic City_night.png
-img/battlebacks2/Electronic City_night_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic City_night_bg.png
+img/battlebacks2/Electronic_City_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/bg2/Electronic_City_bg.png
+img/battlebacks2/Electronic_City_night_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/bg2/Electronic_City_night_bg.png
 img/battlebacks2/Circus_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Circus_bg.png
 img/characters/$Fuji.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/$Fuji.png
 img/characters/$olie_kiss.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/$olie_kiss.png
