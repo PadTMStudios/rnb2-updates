@@ -6,8 +6,8 @@ js/plugins/$MUSH_AchievementSystem_P1.js https://raw.githubusercontent.com/PadTM
 
 <Version: 1.02>
 
-audio/se/Accept.ogg https://github.com/PadTMStudios/rnb2-updates/blob/main/v1-2/Accept.ogg
-audio/se/Cursor3.ogg https://github.com/PadTMStudios/rnb2-updates/blob/main/v1-2/Cursor3.ogg
+audio/se/Accept.ogg https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Accept.ogg
+audio/se/Cursor3.ogg https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Cursor3.ogg
 data/System.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/System.json
 data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Actors.json
 data/Translations.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/Translations.json
