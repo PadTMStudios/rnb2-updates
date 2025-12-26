@@ -38,6 +38,7 @@ img/sv_actors/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-u
 
 <Version: 1.04>
 js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/plugins.js
+js/plugins/%24MUSH_MenuItemCollector_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24MUSH_MenuItemCollector_P1.js
 data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Actors.json
 data/Animations.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Animations.json
 data/Armors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Armors.json
