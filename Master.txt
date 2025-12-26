@@ -35,3 +35,29 @@ img/sv_actors/female_char.png https://raw.githubusercontent.com/PadTMStudios/rnb
 img/sv_actors/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-2/malechar.png
 
 <End of Version>
+
+<Version: 1.04>
+js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/plugins.js
+data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Actors.json
+data/Animations.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Animations.json
+data/Armors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Armors.json
+data/Enemies.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Enemies.json
+data/Items.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Items.json
+data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map006.json
+data/Map010.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map010.json
+data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map012.json
+img/battlebacks1/Electronic%20City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City.png
+img/battlebacks1/Electronic%20City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City_night.png
+img/battlebacks1/Circus.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Circus.png
+img/battlebacks2/Electronic%20City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City.png
+img/battlebacks2/Electronic%20City_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_bg.png
+img/battlebacks2/Electronic%20City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_night.png
+img/battlebacks2/Electronic%20City_night_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_night_bg.png
+img/battlebacks2/Circus_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Circus_bg.png
+img/characters/%24Fuji.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24Fuji.png
+img/characters/%24olie_kiss.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24olie_kiss.png
+img/characters/Eva.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Eva.png
+img/characters/Seller.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Seller.png
+img/characters/Seller_damage.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Seller_damage.png
+
+<End of Version>
