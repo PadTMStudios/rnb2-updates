@@ -38,6 +38,7 @@ img/sv_actors/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-u
 
 <Version: 1.04>
 js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/plugins.js
+js/plugins/$MUSH_MenuItemCollector_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24MUSH_MenuItemCollector_P1.js
 data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Actors.json
 data/Animations.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Animations.json
 data/Armors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Armors.json
@@ -46,23 +47,18 @@ data/Items.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs
 data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map006.json
 data/Map010.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map010.json
 data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Map012.json
-img/battlebacks1/Electronic%20City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City.png
-img/battlebacks1/Electronic%20City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City_night.png
+img/battlebacks1/Electronic City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City.png
+img/battlebacks1/Electronic City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City_night.png
 img/battlebacks1/Circus.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Circus.png
-img/battlebacks2/Electronic%20City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City.png
-img/battlebacks2/Electronic%20City_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_bg.png
-img/battlebacks2/Electronic%20City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_night.png
-img/battlebacks2/Electronic%20City_night_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_night_bg.png
+img/battlebacks2/Electronic City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City.png
+img/battlebacks2/Electronic City_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_bg.png
+img/battlebacks2/Electronic City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_night.png
+img/battlebacks2/Electronic City_night_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Electronic%20City_night_bg.png
 img/battlebacks2/Circus_bg.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Circus_bg.png
-img/characters/%24Fuji.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24Fuji.png
-img/characters/%24olie_kiss.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24olie_kiss.png
+img/characters/$Fuji.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24Fuji.png
+img/characters/$olie_kiss.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24olie_kiss.png
 img/characters/Eva.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Eva.png
 img/characters/Seller.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Seller.png
 img/characters/Seller_damage.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Seller_damage.png
-
-<End of Version>
-
-<Version: 1.05>
-js/plugins/%24MUSH_MenuItemCollector_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24MUSH_MenuItemCollector_P1.js
 
 <End of Version>
