@@ -40,8 +40,8 @@ img/sv_actors/malechar.png https://raw.githubusercontent.com/PadTMStudios/rnb2-u
 js/plugins/SRD_VideoWait.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/SRD_VideoWait.js
 js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/plugins.js
 js/plugins/$MUSH_MenuItemCollector_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/$MUSH_MenuItemCollector_P1.js
-data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Actors.json
 data/Animations.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Animations.json
+data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Actors.json
 data/Armors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Armors.json
 data/Enemies.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Enemies.json
 data/Items.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Items.json
