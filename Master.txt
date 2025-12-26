@@ -64,7 +64,7 @@ img/characters/Seller_damage.png https://raw.githubusercontent.com/PadTMStudios/
 <End of Version>
 
 <Version: 1.05>
-js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/plugins.js
+js/plugins/SRD_VideoWait.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/SRD_VideoWait.js
 js/plugins/$MUSH_MenuItemCollector_P1.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/%24MUSH_MenuItemCollector_P1.js
 img/battlebacks1/Electronic City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City.png
 img/battlebacks1/Electronic City_night.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/bg/Electronic%20City_night.png
