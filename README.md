@@ -18,10 +18,14 @@ SumRndmDde
 
 Yanfly
 
-MushroomCake28
+MushroomCake2
+
+PrettySleekGauges.js
+    Vlue - original
+    Rocketmancer - Prettier Gauges
+    mjshi - merging, edits, and enemy HP bars
 
 
-
-Assets PadTM Studios. ROUXNOBLUE PROJECT - 2025
+Assets PadTM Studios. ROUXNOBLUE PROJECT - 2026
 
 RPG Maker MV is property of Gotcha Gotcha Games Inc., KADOKAWA Corporation & Komodo
