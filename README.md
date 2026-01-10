@@ -21,9 +21,7 @@ Yanfly
 MushroomCake2
 
 PrettySleekGauges.js
-    Vlue - original
-    Rocketmancer - Prettier Gauges
-    mjshi - merging, edits, and enemy HP bars
+    | Vlue - original | Rocketmancer - Prettier Gauges | mjshi - merging, edits, and enemy HP bars |
 
 
 Assets PadTM Studios. ROUXNOBLUE PROJECT - 2026
