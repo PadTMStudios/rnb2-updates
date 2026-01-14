@@ -61,3 +61,19 @@ img/characters/Seller.png https://raw.githubusercontent.com/PadTMStudios/rnb2-up
 img/characters/Seller_damage.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-4/Seller_damage.png
 
 <End of Version>
+
+<Version: 1.05>
+js/plugins/PrettySleekGauges.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/PrettySleekGauges.js
+js/plugins/SRD_CreditsPlugin.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/SRD_CreditsPlugin.js
+data/BattleHUD.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/BattleHUD.json
+data/Enemies.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/Enemies.json
+data/Troops.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/Troops.json
+img/battlebacks1/FreshElevatorRooftop.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/backs/two/FreshElevatorRooftop.png
+img/battlebacks1/Gugle.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/backs/Gugle.png
+img/battlebacks1/Celesta_City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/backs/Celesta_City.png
+img/battlebacks2/Laeten_City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/Laeten_City.png
+img/battlebacks2/Gugle.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/Gugle.png
+img/battlebacks2/FreshElevatorRooftop.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/backs/FreshElevatorRooftop.png
+img/battlebacks2/Celesta_City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/Celesta_City.png
+img/sv_enemies/RNB_Code_lowresolution.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/RNB_Code_lowresolution.png
+<End of Version>
