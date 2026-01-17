@@ -77,3 +77,7 @@ img/battlebacks2/FreshElevatorRooftop.png https://raw.githubusercontent.com/PadT
 img/battlebacks2/Celesta_City.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/Celesta_City.png
 img/sv_enemies/RNB_Code_lowresolution.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v1-5/RNB_Code_lowresolution.png
 <End of Version>
+
+<Version: 2.00>
+img/pictures/Exclusive.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2.0/Exclusive.png
+<End of Version>
