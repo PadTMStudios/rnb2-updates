@@ -89,4 +89,6 @@ data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/ref
 data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Map012.json
 data/Map041.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Map041.json
 data/Troops.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Troops.json
+js/plugins/GALV_MessageSoundEffects.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/GALV_MessageSoundEffects.js
+js/plugins/SRD_CreditsPlugin.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/SRD_CreditsPlugin.js
 <End of Version>
