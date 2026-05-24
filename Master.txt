@@ -81,3 +81,12 @@ img/sv_enemies/RNB_Code_lowresolution.png https://raw.githubusercontent.com/PadT
 <Version: 2.00>
 img/pictures/Exclusive.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2.0/Exclusive.png
 <End of Version>
+
+<Version: 2.01>
+data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Actors.json
+data/Enemies.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Enemies.json
+data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Map006.json
+data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Map012.json
+data/Map041.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Map041.json
+data/Troops.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/Troops.json
+<End of Version>
