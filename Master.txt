@@ -96,3 +96,15 @@ js/plugins/GALV_MessageSoundEffects.js https://raw.githubusercontent.com/PadTMSt
 js/plugins/SRD_CreditsPlugin.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-1/SRD_CreditsPlugin.js
 data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-2/Map006.json
 <End of Version>
+
+<Version: 2.03>
+data/Actors.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Actors.json
+data/CommonEvents.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/CommonEvents.json
+data/Map027.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Map027.json
+data/Map028.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Map028.json
+data/Skills.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Skills.json
+img/characters/Olie_evil.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Olie_evil.png
+img/sv_actors/U-Nideho.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/U-Nideho.png
+img/sv_enemies/Olie_evil.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/olie/Olie_evil.png
+movies/Nideho.webm https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Nideho.webm
+<End of Version>
