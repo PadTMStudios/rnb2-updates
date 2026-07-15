@@ -108,3 +108,7 @@ img/sv_actors/U-Nideho.png https://raw.githubusercontent.com/PadTMStudios/rnb2-u
 img/sv_enemies/Olie_evil.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/olie/Olie_evil.png
 movies/Nideho.webm https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Nideho.webm
 <End of Version>
+<Version: 2.04>
+data/Map028.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-4/Map028.json
+data/Map040.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-4/Map040.json
+<End of Version>
