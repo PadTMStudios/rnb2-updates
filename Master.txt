@@ -112,11 +112,3 @@ movies/Nideho.webm https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/r
 data/Map028.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-4/Map028.json
 data/Map040.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-4/Map040.json
 <End of Version>
-
-<Version: 2.05>
-audio/se/Charge.ogg https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Charge.ogg
-audio/se/end.ogg https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/end.ogg
-audio/se/Keep.ogg https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Keep.ogg
-data/CommonEvents.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/CommonEvents.json
-data/Map032.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map032.json
-<End of Version>
