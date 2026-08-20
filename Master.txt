@@ -108,7 +108,38 @@ img/sv_actors/U-Nideho.png https://raw.githubusercontent.com/PadTMStudios/rnb2-u
 img/sv_enemies/Olie_evil.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/olie/Olie_evil.png
 movies/Nideho.webm https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-3/Nideho.webm
 <End of Version>
+
 <Version: 2.04>
 data/Map028.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-4/Map028.json
 data/Map040.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-4/Map040.json
+<End of Version>
+
+<Version: 2.05>
+audio/se/Charge.ogg https://www.dropbox.com/scl/fi/znme5gbnpepxhpurgdhjc/Charge.ogg?rlkey=xcmrn9rbwi6fvbvi1oigxzxph&st=leii686i&dl=0
+audio/se/Keep.ogg https://www.dropbox.com/scl/fi/cs02x7t8qeko2nprl3v7z/Keep.ogg?rlkey=c4ir6wwl95bss1rewc9681wr2&st=zna79qjx&dl=0
+audio/se/end.ogg https://www.dropbox.com/scl/fi/fr4r0r90abk6n0i3wdf33/end.ogg?rlkey=21qbk3m7hkgegnzgfw8fda6ut&st=0ycswmi1&dl=0
+data/CommonEvents.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/CommonEvents.json
+data/Map001.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map001.json
+data/Map006.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map006.json
+data/Map008.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map008.json
+data/Map009.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map009.json
+data/Map011.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map011.json
+data/Map012.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map012.json
+data/Map013.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map013.json
+data/Map015.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map015.json
+data/Map016.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map016.json
+data/Map019.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map019.json
+data/Map020.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map020.json
+data/Map022.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map022.json
+data/Map024.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map024.json
+data/Map026.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map026.json
+data/Map029.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map029.json
+data/Map030.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map030.json
+data/Map031.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map031.json
+data/Map032.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map032.json
+data/Map043.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map043.json
+data/Map044.json https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/Map044.json
+img/faces/IcoPack5.png https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/IcoPack5.png
+js/plugins.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/plugins.js
+js/plugins/OmiTransferEP2.js https://raw.githubusercontent.com/PadTMStudios/rnb2-updates/refs/heads/main/v2-5/OmiTransferEP2.js
 <End of Version>
